@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/sawansaxena/end-to-end-MLOps
+Author: sawansaxena
+Author-email: sawan.jecrc@gmail.com
+Project-URL: Bug Tracker, https://github.com/sawansaxena/end-to-end-MLOps/issues
+License-File: LICENSE
+
+# end-to-end-MLOps
